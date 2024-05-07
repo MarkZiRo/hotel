@@ -81,6 +81,7 @@
     - 정산
         - 정산할 수 있는 금액을 볼 수 있다.
         - 정산 버튼을 눌러 정산 신청이 가능하다.
+        - 
    
 
 ![image](https://github.com/MarkZiRo/hotel/assets/37473857/a3de93ab-9717-41db-8948-baaa26d18f15)
